@@ -11,3 +11,6 @@ O objetivo deste storyboard é planejar visualmente a estrutura e a experiência
 [Clique aqui para visualizar o storyboard no Miro](https://miro.com/app/board/uXjVLjvj2rk=/?share_link_id=492661128913)
 
 ---
+
+📌 Sobre o TodoMVC
+O TodoMVC é um projeto open-source que implementa a mesma aplicação de lista de tarefas (todo list) usando diferentes frameworks.
